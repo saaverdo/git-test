@@ -1,1 +1,2 @@
-# git-test
+## git-test
+Git repo for demo purposes.
